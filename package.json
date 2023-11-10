@@ -10,7 +10,7 @@
 	"keywords": [
 		"nodejs"
 	],
-	"author": "Samar Badriddinov",
+	"author": "Shahzodbek",
 	"license": "ISC",
 	"devDependencies": {
 		"nodemon": "^2.0.20"
